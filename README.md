@@ -27,7 +27,7 @@ Interesada en continuar desarrollándome en estas áreas.
 
 - **Pasante en Ingeniería Eléctrica y Electrónica**  
   *Universidad Nacional Autónoma de México, Campo de profundización en Ingeniería Biomédica*  
-  - Agosto 2028 (en curso)  
+  - Diciembre 2023 
 
 ---
 
