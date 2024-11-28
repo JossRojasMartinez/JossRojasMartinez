@@ -36,19 +36,18 @@ Interesada en continuar desarrollándome en estas áreas.
 | **Categoría**        | **Habilidad**                | **Logo**                                   |
 |-----------------------|------------------------------|--------------------------------------------|
 | **Lenguajes**         | `Python`                    | ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) |
-|                       | `C`                         | ![C](https://cdn-icons-png.flaticon.com/512/528/528261.png)         |
-|                       | `C++`                       | ![C++](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)     |
-|                       | `Swift`                     | ![Swift](https://cdn-icons-png.flaticon.com/512/732/732212.png)     |
-| **Herramientas**      | `SolidWorks`                | ![SolidWorks](https://cdn-icons-png.flaticon.com/512/6173/6173870.png) |
+|                       | `C`                         | ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) |
+|                       | `C++`                       | ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) |
+|                       | `Swift`                     | ![Swift](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg) |
+| **Herramientas**      | `SolidWorks`                | ![SolidWorks](https://upload.wikimedia.org/wikipedia/commons/2/2b/SolidWorks_Logo.svg) |
 |                       | `SQL`                       | ![SQL](https://cdn-icons-png.flaticon.com/512/2772/2772128.png)     |
 |                       | `DBeaver`                   | ![DBeaver](https://dbeaver.io/wp-content/uploads/2017/12/dbeaver-logo.png) |
-|                       | `Unity`                     | ![Unity](https://cdn-icons-png.flaticon.com/512/5969/5969100.png)   |
-| **Software General**  | `Paquetería Office`         | ![Office](https://cdn-icons-png.flaticon.com/512/888/888879.png)    |
+|                       | `Unity`                     | ![Unity](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg) |
+| **Software General**  | `Paquetería Office`         | ![Office](https://upload.wikimedia.org/wikipedia/commons/d/da/Microsoft_Office_logo_%282013-2019%29.png) |
 | **Habilidades Blandas** | `Toma de decisiones`        | ✔️                                      |
 |                       | `Adaptabilidad`             | 🔄                                      |
 |                       | `Trabajo en equipo`         | 🤝                                      |
 |                       | `Comunicación con clientes` | 🗣️                                     |
-
 
 ---
 
