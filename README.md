@@ -38,11 +38,12 @@ Interesada en continuar desarrollándome en estas áreas.
 | **Lenguajes**         | `Python`                    | ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) |
 |                       | `C`                         | ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) |
 |                       | `C++`                       | ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) |
-|                       | `Swift`                     | ![Swift](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg) |
+|                       | `Swift`                     | ![Swift]([https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg](https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png)) |
 | **Herramientas**      | `SolidWorks`                | ![SolidWorks](https://upload.wikimedia.org/wikipedia/commons/2/2b/SolidWorks_Logo.svg) |
 |                       | `SQL`                       | ![SQL](https://cdn-icons-png.flaticon.com/512/2772/2772128.png)     |
+|                       | `PostgreSQL                 | ![PostgreSQL]([https://dbeaver.io/wp-content/uploads/2017/12/dbeaver-logo.png](https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png)) |
 |                       | `DBeaver`                   | ![DBeaver](https://dbeaver.io/wp-content/uploads/2017/12/dbeaver-logo.png) |
-|                       | `Unity`                     | ![Unity](https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg) |
+|                       | `Unity`                     | ![Unity]([https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg](https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png)) |
 | **Software General**  | `Paquetería Office`         | ![Office](https://upload.wikimedia.org/wikipedia/commons/d/da/Microsoft_Office_logo_%282013-2019%29.png) |
 | **Habilidades Blandas** | `Toma de decisiones`        | ✔️                                      |
 |                       | `Adaptabilidad`             | 🔄                                      |
